@@ -7,7 +7,7 @@
 Robotics, Machine Learning, Data Science
 
 ## Tools
-Python, NVIDIA Jetson
+ROS, Python, NVIDIA Jetson
 
 <!--
 **estods3/estods3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

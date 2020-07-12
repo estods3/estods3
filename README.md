@@ -3,7 +3,7 @@
 -->
 
 <!-- Lines are 850 wide in homepage view -->
-[<img src="https://github.com/estods3/JetTank/blob/master/documentation/linefollowing.gif" alt="drawing" width="232"/>](https://github.com/estods3/JetTank)<img src="https://github.com/estods3/PathPlanning-withGeneticAI/blob/master/pics/gen280.PNG" alt="drawing" width="618"/><img src="https://github.com/estods3/Sampling-usingNyquistTheorem/blob/master/screenshots/FrequencyGreaterThanNyquist.png" alt="drawing" width="480"/>
+[<img src="https://github.com/estods3/JetTank/blob/master/documentation/linefollowing.gif" alt="drawing" width="234"/>](https://github.com/estods3/JetTank)<img src="https://github.com/estods3/PathPlanning-withGeneticAI/blob/master/pics/gen280.PNG" alt="drawing" width="620"/><img src="https://github.com/estods3/Sampling-usingNyquistTheorem/blob/master/screenshots/FrequencyGreaterThanNyquist.png" alt="drawing" width="480"/>
 [<img src="https://raw.githubusercontent.com/estods3/Tutorial-LegoRoboticClaw/master/documentation/closeupOfPerfBoard.jpg" alt="drawing" width="370"/>](https://github.com/estods3/Tutorial-LegoRoboticClaw)
 
 

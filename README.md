@@ -2,7 +2,7 @@
 [<img src="https://raw.githubusercontent.com/estods3/Tutorial-LegoRoboticClaw/master/documentation/closeupOfPerfBoard.jpg" alt="drawing" width="430"/>](https://github.com/estods3/Tutorial-LegoRoboticClaw)
 -->
 
-[<img src="https://github.com/estods3/JetTank/blob/master/documentation/linefollowing.gif" alt="drawing" width="172"/>](https://github.com/estods3/JetTank)<img src="https://github.com/estods3/PathPlanning-withGeneticAI/blob/master/pics/gen280.PNG" alt="drawing" width="522"/><img src="https://github.com/estods3/Sampling-usingNyquistTheorem/blob/master/screenshots/FrequencyGreaterThanNyquist.png" alt="drawing" width="360"/>
+[<img src="https://github.com/estods3/JetTank/blob/master/documentation/linefollowing.gif" alt="drawing" width="222"/>](https://github.com/estods3/JetTank)<img src="https://github.com/estods3/PathPlanning-withGeneticAI/blob/master/pics/gen280.PNG" alt="drawing" width="522"/><img src="https://github.com/estods3/Sampling-usingNyquistTheorem/blob/master/screenshots/FrequencyGreaterThanNyquist.png" alt="drawing" width="410"/>
 [<img src="https://raw.githubusercontent.com/estods3/Tutorial-LegoRoboticClaw/master/documentation/closeupOfPerfBoard.jpg" alt="drawing" width="330"/>](https://github.com/estods3/Tutorial-LegoRoboticClaw)
 
 

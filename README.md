@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="https://github.com/estods3/JetTank/blob/master/documentation/linefollowing.gif" alt="drawing" width="449"/><img src="https://github.com/estods3/JetTank/blob/master/documentation/workspace.gif" alt="drawing" width="390"/>
+
+
+
+### Hi there
 
 <!--
 **estods3/estods3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

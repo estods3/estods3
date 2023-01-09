@@ -7,11 +7,11 @@
 [<img src="https://github.com/estods3/estods3/blob/master/sampling.gif" title="Frequency Simulator" alt="drawing" width="600"/>](https://github.com/estods3/Sampling-usingNyquistTheorem)
 [<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="AM Radio" alt="drawing" width="250"/>](https://github.com/estods3/AMRadio)[<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="300"/>](https://github.com/estods3/ATmega328pProgrammer)
 
-[<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="Low Pass Filter" alt="drawing" width="250"/>](https://everycircuit.com/circuit/5820504109481984)
-[<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="High Pass Filter" alt="drawing" width="250"/>](https://everycircuit.com/circuit/5506649642762240)
-[<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="Band Pass Filter" alt="drawing" width="250"/>](https://everycircuit.com/circuit/4906615331094528)
-[<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="Current Mirror" alt="drawing" width="250"/>](https://everycircuit.com/circuit/4760128223707136)
-[<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="Push Pull Amplifier" alt="drawing" width="250"/>](https://everycircuit.com/circuit/4675012138893312)
+[<img src="https://github.com/estods3/estods3/blob/master/circuit_LPF.png" title="Low Pass Filter" alt="drawing" width="100"/>](https://everycircuit.com/circuit/5820504109481984)
+[<img src="https://github.com/estods3/estods3/blob/master/circuit_HPF.png" title="High Pass Filter" alt="drawing" width="100"/>](https://everycircuit.com/circuit/5506649642762240)
+[<img src="https://github.com/estods3/estods3/blob/master/circuit_BPF.png" title="Band Pass Filter" alt="drawing" width="100"/>](https://everycircuit.com/circuit/4906615331094528)
+[<img src="https://github.com/estods3/estods3/blob/master/circuit_CM.png" title="Current Mirror" alt="drawing" width="100"/>](https://everycircuit.com/circuit/4760128223707136)
+[<img src="https://github.com/estods3/estods3/blob/master/circuit_PPA.png" title="Push Pull Amplifier" alt="drawing" width="100"/>](https://everycircuit.com/circuit/4675012138893312)
 
 <!-- &nbsp; is the space character -->
 ## Interests&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tools

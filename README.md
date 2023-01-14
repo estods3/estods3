@@ -8,7 +8,7 @@
 [<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="AM Radio" alt="drawing" width="250"/>](https://github.com/estods3/AMRadio)[<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="300"/>](https://github.com/estods3/ATmega328pProgrammer)
 
 | EveryCircuit Simulations | 1 | 2 |
-|--------------------------|---|---|
+|:----:|:----:|:----:|
 | Low Pass Filter | High Pass Filter | Band Pass Filter |
 |[<img src="https://github.com/estods3/estods3/blob/master/circuit_LPF.png" title="Low Pass Filter" alt="drawing" height="200" width="200"/>](https://everycircuit.com/circuit/5820504109481984) | [<img src="https://github.com/estods3/estods3/blob/master/circuit_HPF.png" title="High Pass Filter" alt="drawing" height="200" width="200"/>](https://everycircuit.com/circuit/5506649642762240) | [<img src="https://github.com/estods3/estods3/blob/master/circuit_BPF.png" title="Band Pass Filter" alt="drawing" height="200" width="250"/>](https://everycircuit.com/circuit/4906615331094528) |
 | Current Mirror | Push Pull Amplifier | 6 |

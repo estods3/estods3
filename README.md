@@ -11,7 +11,7 @@
 
 #### Printed Circuit Boards
 [<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="300"/>](https://github.com/estods3/ATmega328pProgrammer)
-[<img src="https://github.com/estods3/Drone/blob/main/HW/pcb/drone_controller_top.png" alt="drawing" width="300"/>](https://github.com/estods3/Drone)
+[<img src="https://github.com/estods3/Drone/blob/main/HW/pcb/drone_controller_top.png" title="Quadcopter Flight Controller" alt="drawing" width="300"/>](https://github.com/estods3/Drone)
 
 #### Circuit Simulations
 | Signal Processing | Power Electronics | Digital | Other |

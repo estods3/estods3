@@ -16,7 +16,7 @@ Robots and Things that Move
 #### Circuit Simulations
 Click on a circuit below to view the live simulation
 | Filters | Signal Processing | Other |
-|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|
 | Low Pass Filter | Current Mirror | AM Modulator|
 |[<img src="https://github.com/estods3/estods3/blob/master/circuit_LPF.png" title="Low Pass Filter" alt="drawing" height="200" width="200"/>](https://everycircuit.com/circuit/5820504109481984) | [<img src="https://github.com/estods3/estods3/blob/master/circuit_CM.png" title="Current Mirror" alt="drawing" height="200" width="200"/>](https://everycircuit.com/circuit/4760128223707136) | [<img src="https://github.com/estods3/estods3/blob/master/circuit_AMMod.png" title="AM Modulator" alt="drawing" height="200" width="200"/>](https://everycircuit.com/circuit/5053803457675264) |
 | High Pass Filter | Boost Buck Converter | LC Oscillator |

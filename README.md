@@ -7,12 +7,14 @@ Robotics, Electronics, Machine Learning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 [<img src="https://github.com/estods3/JetTank/blob/master/documentation/linefollowing.gif" title="Line Following Robot" alt="drawing" width="200"/>](https://github.com/estods3/JetTank)[<img src="https://raw.githubusercontent.com/estods3/Tutorial-LegoRoboticClaw/master/documentation/closeupOfPerfBoard.jpg" title="LEGO Robotic Arm" alt="drawing" width="175"/>](https://github.com/estods3/Tutorial-LegoRoboticClaw)[<img src="https://github.com/estods3/raspberrypi-LiteArmi2/blob/master/rosreplay.gif" title="3D Printed Robotic Arm" alt="video" width="233"/>](https://github.com/estods3/raspberrypi-LiteArmi2)[<img src="https://github.com/estods3/estods3/blob/master/planetarygearset.gif" title="Planetary Gear Set" alt="video" width="122"/>](https://github.com/estods3)[<img src="https://github.com/estods3/Drone/blob/main/drone.gif" title="Quadcopter" alt="video" width="215"/>](https://github.com/estods3)
 [<img src="https://github.com/estods3/estods3/blob/master/sampling.gif" title="Frequency Simulator" alt="drawing" width="550"/>](https://github.com/estods3/Sampling-usingNyquistTheorem)[<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="AM Radio" alt="drawing" width="212"/>](https://github.com/estods3/AMRadio)
 
-#### Printed Circuit Boards
+### Printed Circuit Boards
+PCBs that I have designed.
 [<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="300"/>](https://github.com/estods3/ATmega328pProgrammer)
 [<img src="https://github.com/estods3/Drone/blob/main/HW/pcb/drone_controller_top.png" title="Quadcopter Flight Controller" alt="drawing" width="300"/>](https://github.com/estods3/Drone)
 
-#### Circuit Simulations
-Click on a circuit below to view the live simulation
+### Circuit Simulations
+Click on a circuit below to view the live simulation!
+
 | Filters | Signal Processing | Other |
 |:----:|:----:|:----:|
 | Low Pass Filter | Current Mirror | AM Modulator|

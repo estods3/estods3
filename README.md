@@ -1,12 +1,10 @@
+## Interests&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tools
+Robotics, Electronics, Machine Learning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ROS, Python, EagleCAD/KiCad
+
 ## Project Highlights
 <!-- Lines are 800 wide in homepage view -->
-### Robotics
-Robots and Things that Move
-
 [<img src="https://github.com/estods3/estods3/blob/master/pathplanning.gif" title="Path Planning Algorithm" alt="drawing" width="600"/>](https://github.com/estods3/PathPlanning-withGeneticAI)
 [<img src="https://github.com/estods3/JetTank/blob/master/documentation/linefollowing.gif" title="Line Following Robot" alt="drawing" width="200"/>](https://github.com/estods3/JetTank)[<img src="https://raw.githubusercontent.com/estods3/Tutorial-LegoRoboticClaw/master/documentation/closeupOfPerfBoard.jpg" title="LEGO Robotic Arm" alt="drawing" width="175"/>](https://github.com/estods3/Tutorial-LegoRoboticClaw)[<img src="https://github.com/estods3/raspberrypi-LiteArmi2/blob/master/rosreplay.gif" title="3D Printed Robotic Arm" alt="video" width="233"/>](https://github.com/estods3/raspberrypi-LiteArmi2)[<img src="https://github.com/estods3/estods3/blob/master/planetarygearset.gif" title="Planetary Gear Set" alt="video" width="122"/>](https://github.com/estods3)[<img src="https://github.com/estods3/Drone/blob/main/drone.gif" title="Quadcopter" alt="video" width="215"/>](https://github.com/estods3)
-
-### Electronics
 [<img src="https://github.com/estods3/estods3/blob/master/sampling.gif" title="Frequency Simulator" alt="drawing" width="550"/>](https://github.com/estods3/Sampling-usingNyquistTheorem)[<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="AM Radio" alt="drawing" width="212"/>](https://github.com/estods3/AMRadio)
 
 #### Printed Circuit Boards
@@ -28,8 +26,6 @@ Click on a circuit below to view the live simulation
 | 3rd Order Butterworth Filter |  | |
 |[<img src="https://github.com/estods3/estods3/blob/master/3rdOrderButterworth.png" title="Band Pass Filter" alt="drawing" height="200" width="250"/>](https://everycircuit.com/circuit/5052508216754176)| | |
 <!-- &nbsp; is the space character -->
-## Interests&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tools
-Robotics, Electronics, Machine Learning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ROS, Python, EagleCAD/KiCad
 
 <!--
 **estods3/estods3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

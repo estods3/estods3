@@ -13,10 +13,14 @@ Robotics, Electronics, Machine Learning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 [<img src="https://github.com/estods3/JetTank/blob/master/documentation/linefollowing.gif" title="Line Following Robot" alt="drawing" width="200"/>](https://github.com/estods3/JetTank)[<img src="https://raw.githubusercontent.com/estods3/Mule-Machine/main/HW/cad/MuleMachineCAD.png" title="Drinkbot" alt="drawing" width="350"/>](https://github.com/estods3/Mule-Machine)[<img src="https://github.com/estods3/raspberrypi-LiteArmi2/blob/master/rosreplay.gif" title="3D Printed Robotic Arm" alt="video" width="295"/>](https://github.com/estods3/raspberrypi-LiteArmi2)[<img src="https://github.com/estods3/estods3/blob/master/planetarygearset.gif" title="Planetary Gear Set" alt="video" width="155"/>](https://github.com/estods3)[<img src="https://github.com/estods3/Drone/blob/main/drone.gif" title="Quadcopter" alt="video" width="250"/>](https://github.com/estods3)
 [<img src="https://github.com/estods3/estods3/blob/master/sampling.gif" title="Frequency Simulator" alt="drawing" width="550"/>](https://github.com/estods3/Sampling-usingNyquistTheorem)[<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="AM Radio" alt="drawing" width="212"/>](https://github.com/estods3/AMRadio)
 
+[<img src="https://github.com/estods3/estods3/blob/master/IMG_20230625_115213_01.jpg" title="Live-Edge Table" alt="drawing" width="212"/>]()
+[<img src="https://github.com/estods3/estods3/blob/master/PXL_20240510_223439683.jpg" title="Live-Edge Table" alt="drawing" width="212"/>]()
+
 ### Printed Circuit Boards
 PCBs that I have designed.
 
 [<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="250"/>](https://github.com/estods3/ATmega328pProgrammer)[<img src="https://github.com/estods3/Drone/blob/main/HW/pcb/drone_controller_top.png" title="Quadcopter Flight Controller" alt="drawing" width="250"/>](https://github.com/estods3/Drone)[<img src="https://raw.githubusercontent.com/estods3/Mule-Machine/main/HW/pcb/mulemachinePCB_withLEDs.png" title="Drinkbot Controller" alt="drawing" width="250"/>](https://github.com/estods3/Mule-Machine)
+[<img src="https://github.com/estods3/estods3/blob/master/Nemesis-MixSigPCB.png" title="Mixed Signal Demo Board" alt="drawing" width="250"/>]()
 
 ### Circuit Simulations
 Click on a circuit below to view the live simulation!

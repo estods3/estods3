@@ -18,9 +18,10 @@ Click on an image to (in most cases) view the Github Repo.
 ### Printed Circuit Boards
 PCBs that I have designed.
 
-[<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="300"/>](https://github.com/estods3/ATmega328pProgrammer)[<img src="https://github.com/estods3/Drone/blob/main/HW/pcb/drone_controller_top.png" title="Quadcopter Flight Controller" alt="drawing" width="300"/>](https://github.com/estods3/Drone)
-[<img src="https://raw.githubusercontent.com/estods3/Mule-Machine/main/HW/pcb/mulemachinePCB_withLEDs.png" title="Drinkbot Controller" alt="drawing" width="300"/>](https://github.com/estods3/Mule-Machine)
-[<img src="https://raw.githubusercontent.com/estods3/estods3/refs/heads/master/Nemesis-MixSigPCB.png" title="Mixed Signal Demo Board" alt="drawing" width="250"/>]()
+| Filters | Other |
+|:----:|:----:|
+| [<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="350"/>](https://github.com/estods3/ATmega328pProgrammer) | [<img src="https://github.com/estods3/Drone/blob/main/HW/pcb/drone_controller_top.png" title="Quadcopter Flight Controller" alt="drawing" width="350"/>](https://github.com/estods3/Drone) |
+| [<img src="https://raw.githubusercontent.com/estods3/Mule-Machine/main/HW/pcb/mulemachinePCB_withLEDs.png" title="Drinkbot Controller" alt="drawing" width="350"/>](https://github.com/estods3/Mule-Machine) | [<img src="https://raw.githubusercontent.com/estods3/estods3/refs/heads/master/Nemesis-MixSigPCB.png" title="Mixed Signal Demo Board" alt="drawing" width="250"/>]() |
 
 ### Circuit Simulations
 Click on a circuit below to view the live simulation!

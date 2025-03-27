@@ -18,9 +18,10 @@ Click on an image to (in most cases) view the Github Repo.
 ### Printed Circuit Boards
 PCBs that I have designed.
 
-| Filters | Other |
+| Atmega Programmer | Quadcopter Flight Controller |
 |:----:|:----:|
 | [<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="350"/>](https://github.com/estods3/ATmega328pProgrammer) | [<img src="https://github.com/estods3/Drone/blob/main/HW/pcb/drone_controller_top.png" title="Quadcopter Flight Controller" alt="drawing" width="350"/>](https://github.com/estods3/Drone) |
+| Drinkbot Controller | Mixed Signal Board |
 | [<img src="https://raw.githubusercontent.com/estods3/Mule-Machine/main/HW/pcb/mulemachinePCB_withLEDs.png" title="Drinkbot Controller" alt="drawing" width="350"/>](https://github.com/estods3/Mule-Machine) | [<img src="https://raw.githubusercontent.com/estods3/estods3/refs/heads/master/Nemesis-MixSigPCB.png" title="Mixed Signal Demo Board" alt="drawing" width="250"/>]() |
 
 ### Circuit Simulations

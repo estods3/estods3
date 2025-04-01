@@ -40,7 +40,7 @@ Click on a circuit below to view the live simulation!
 | 3rd Order Butterworth Filter |  | Wheatstone Bridge|
 |[<img src="https://github.com/estods3/estods3/blob/master/3rdOrderButterworth.png" title="3rd Order Butterworth Filter" alt="drawing" height="200" width="250"/>](https://everycircuit.com/circuit/5052508216754176)| | [<img src="https://github.com/estods3/estods3/blob/master/circuit_wheatstonebridge.png" title="Wheatstone Bridge" alt="drawing" height="200" width="250"/>](https://everycircuit.com/circuit/4789543152386048) |
 | Pi Filter | | |
-|[<img src="https://github.com/estods3/estods3/blob/master/circuit_circuit_lppifilter.png" title="Pi Filter" alt="drawing" height="200" width="250"/>](https://everycircuit.com/circuit/6684705453899776) | | |
+|[<img src="https://github.com/estods3/estods3/blob/master/circuit_lppifilter.png" title="Pi Filter" alt="drawing" height="200" width="250"/>](https://everycircuit.com/circuit/6684705453899776) | | |
 <!-- &nbsp; is the space character -->
 
 <!--

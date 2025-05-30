@@ -17,9 +17,10 @@ Here are some robot platforms I have built for experimenting with robotics algor
 | | | |
 | <img src="https://github.com/estods3/JetTank/blob/master/documentation/commandcenter.png" title="Robot Visualization" alt="drawing" width="300"/> | [<img src="https://github.com/estods3/raspberrypi-LiteArmi2/blob/master/docs/rvizreplay.gif" title="3D Printed Robotic Arm" alt="video" width="300"/>](https://github.com/estods3/raspberrypi-LiteArmi2) | <img src="https://github.com/estods3/Drone/blob/main/ros_live_visualization.png" title="Drone Visualization" alt="drawing" width="300"/> |
 | Mapping, Navigation |	Manipulation | Swarm, Surveillance, Delivery |
-| 3D Printed NVIDIA "JetBot" Chassis	with 2 Front Wheels (Independently Driven) and 1 Rear Omni-wheel | 3D Printed LiteArmi2 Geometry: 3R Serial Open-Chain with Rotating Base	| Carbon Fiber FPV Drone X-type propeller mount |
-| Custom PCB H Bridge Motor Controller DC Motors Camera IMU | Custom PCB Raspberry Pi Hat Servo Motors Heartbeat LED Ethernet | Custom Flight Controller PCB | IMU ESCs Brushless DC Motors Heartbeat LED Lithium Ion Battery |
-| 5V Operating Voltage | 5V Operating Voltage | 11.1V (3S) Operating Voltage |
+| 3D Printed NVIDIA "JetBot" Chassis	with 2 Front Wheels (Independently Driven) and 1 Rear Omni-wheel | 3D Printed LiteArmi2, Geometry: 3R Serial Open-Chain with Rotating Base	| Carbon Fiber FPV Drone X-type propeller mount |
+| Custom PCB, H Bridge, Motor Controller, DC Motors, Camera, IMU | Custom PCB, Raspberry Pi Hat, Servo Motors, Heartbeat LED | Custom Flight Controller PCB, IMU, ESCs, Brushless DC Motors, Heartbeat LED |
+| 5V Operating Voltage, USB Battery Pack | 5V Operating Voltage, DC Power Supply | 11.1V (3S) Operating Voltage Lithium Ion Battery |
+| WiFi | Ethernet | WiFi |
 |	NVIDIA Jetson Developer Kit |	Raspberry Pi |	ESP32 |
 | ROS Computer Vision Remote Control | ROS Remote Control Heartbeat LED Signal | ROS WiFi Server Remote Control Heartbeat LED Signal |
 | Line Following Mode Workspace Mode Remote Control | Forward Kinematics Trapezoid Control | Complementary IMU Filter PID Controller |

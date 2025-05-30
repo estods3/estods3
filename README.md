@@ -9,6 +9,8 @@ Robotics, Electronics, Machine Learning, Simulation &nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [MS Thesis](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu1555357244145006)
 
 ## Robotics
+Here are some robot platforms I have built for experimenting with robotics algorithms and applications.
+
 | Ground Robot (UGV) | Robotic Arm | Aerial Robot (UAVs) |
 |:------------------:|:-----------:|:-------------------:|
 |[<img src="https://github.com/estods3/JetTank/blob/master/documentation/linefollowing.gif" title="Line Following Robot" alt="drawing" width="200"/>](https://github.com/estods3/JetTank) | [<img src="https://github.com/estods3/raspberrypi-LiteArmi2/blob/master/docs/rosreplay.gif" title="3D Printed Robotic Arm" alt="video" width="94"/>](https://github.com/estods3/raspberrypi-LiteArmi2) | [<img src="https://github.com/estods3/Drone/blob/main/drone.gif" title="Quadcopter" alt="video" width="250"/>](https://github.com/estods3/Drone)|

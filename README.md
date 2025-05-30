@@ -27,7 +27,7 @@ Here are some robot platforms I have built for experimenting with robotics algor
 | [Github Repo](https://github.com/estods3/JetTank) | [Github Repo](https://github.com/estods3/raspberrypi-LiteArmi2) | [Github Repo](https://github.com/estods3/Drone) |
 | Upgrades: Simulator: Flatlands Simulator https://github.com/dusty-nv/jetbot_ros/tree/master SLAM Algorithm | End Effector Design | Simulator: Gazebo |
 
-## Project Highlights
+## Electronics, Machine Learning, and Other Projects
 Click on an image to (in most cases) view the Github Repo.
 <!-- Lines are 800 wide in homepage view -->
 [<img src="https://github.com/estods3/estods3/blob/master/pathplanning.gif" title="Path Planning Algorithm" alt="drawing" width="600"/>](https://github.com/estods3/PathPlanning-withGeneticAI)

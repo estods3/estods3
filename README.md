@@ -7,6 +7,19 @@ Robotics, Electronics, Machine Learning, Simulation &nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [SAE Technical Paper 2019-01-0876](https://www.sae.org/publications/technical-papers/content/2019-01-0876/)
 
 [MS Thesis](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu1555357244145006)
+
+## Robotics
+| Ground Robot (UGV) | Robotic Arm | Aerial Robot (UAVs) |
+|:------------------:|:-----------:|:-------------------:|
+| Mapping, Navigation |	Manipulation | Swarm, Surveillance, Delivery |
+| 3D Printed NVIDIA "JetBot" Chassis	with 2 Front Wheels (Independently Driven) and 1 Rear Omni-wheel | 3D Printed LiteArmi2 Geometry: 3R Serial Open-Chain with Rotating Base	| Carbon Fiber FPV Drone X-type propeller mount |
+| Custom PCB H Bridge Motor Controller DC Motors Camera IMU | Custom PCB Raspberry Pi Hat Servo Motors Heartbeat LED Ethernet | Custom Flight Controller PCB | IMU ESCs Brushless DC Motors Heartbeat LED Lithium Ion Battery |
+| 5V Oprating Voltage | 5V Oprating Voltage | 11.1V (3S) Oprating Voltage |
+|	NVIDIA Jetson Developer Kit |	Raspberry Pi |	ESP32 |
+| ROS Computer Vision Remote Control | ROS Remote Control Heartbeat LED Signal | ROS WiFi Server Remote Control Heartbeat LED Signal |
+| Line Following Mode Workspace Mode Remote Control | Forward Kinematics Trapezoid Control | Complementary IMU Filter PID Controller |
+| Upgrades: Simulator: Flatlands Simulator https://github.com/dusty-nv/jetbot_ros/tree/master SLAM Algorithm | End Effector Design | Simulator: Gazebo |
+
 ## Project Highlights
 Click on an image to (in most cases) view the Github Repo.
 <!-- Lines are 800 wide in homepage view -->

@@ -14,7 +14,7 @@ Here are some robot platforms I have built for experimenting with robotics algor
 | Ground Robot (UGV) | Robotic Arm | Aerial Robot (UAVs) |
 |:------------------:|:-----------:|:-------------------:|
 |[<img src="https://github.com/estods3/JetTank/blob/master/documentation/linefollowing.gif" title="Line Following Robot" alt="drawing" width="200"/>](https://github.com/estods3/JetTank) | [<img src="https://github.com/estods3/raspberrypi-LiteArmi2/blob/master/docs/rosreplay.gif" title="3D Printed Robotic Arm" alt="video" width="94"/>](https://github.com/estods3/raspberrypi-LiteArmi2) | [<img src="https://github.com/estods3/Drone/blob/main/drone.gif" title="Quadcopter" alt="video" width="250"/>](https://github.com/estods3/Drone) |
-| | | |
+| | <img src="https://github.com/estods3/raspberrypi-LiteArmi2/blob/master/docs/robotarm_urdf.png" title="URDF" alt="drawing" width="300"/> | |
 | <img src="https://github.com/estods3/JetTank/blob/master/documentation/commandcenter.png" title="Robot Visualization" alt="drawing" width="300"/> | [<img src="https://github.com/estods3/raspberrypi-LiteArmi2/blob/master/docs/rvizreplay.gif" title="3D Printed Robotic Arm" alt="video" width="300"/>](https://github.com/estods3/raspberrypi-LiteArmi2) | <img src="https://github.com/estods3/Drone/blob/main/ros_live_visualization.png" title="Drone Visualization" alt="drawing" width="300"/> |
 | Mapping, Navigation |	Manipulation | Swarm, Surveillance, Delivery |
 | 3D Printed NVIDIA "JetBot" Chassis	with 2 Front Wheels (Independently Driven) and 1 Rear Omni-wheel | 3D Printed LiteArmi2, Geometry: 3R Serial Open-Chain with Rotating Base	| Carbon Fiber FPV Drone X-type propeller mount |

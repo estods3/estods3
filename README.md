@@ -31,7 +31,7 @@ Click on an image to (in most cases) view the Github Repo.
 <!-- Lines are 800 wide in homepage view -->
 [<img src="https://github.com/estods3/estods3/blob/master/pathplanning.gif" title="Path Planning Algorithm" alt="drawing" width="600"/>](https://github.com/estods3/PathPlanning-withGeneticAI)
 [<img src="https://raw.githubusercontent.com/estods3/Mule-Machine/main/HW/cad/MuleMachineCAD.png" title="Drinkbot" alt="drawing" width="350"/>](https://github.com/estods3/Mule-Machine)[<img src="https://github.com/estods3/estods3/blob/master/planetarygearset.gif" title="Planetary Gear Set" alt="video" width="157"/>](https://github.com/estods3)
-[<img src="https://github.com/estods3/estods3/blob/master/sampling.gif" title="Frequency Simulator" alt="drawing" width="550"/>](https://github.com/estods3/Sampling-usingNyquistTheorem)[<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="AM Radio" alt="drawing" width="205"/>](https://github.com/estods3/AMRadio)[<img src="https://github.com/estods3/estods3/blob/master/IMG_20230625_115213_01.jpg" title="Live-Edge Table" alt="drawing" width="173"/>]()[<img src="https://github.com/estods3/estods3/blob/master/PXL_20240510_223439683.jpg" title="Live-Edge Table" alt="drawing" width="200"/>]()
+[<img src="sampling.gif" title="Frequency Simulator" alt="drawing" width="550"/>](https://github.com/estods3/Sampling-usingNyquistTheorem)[<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="AM Radio" alt="drawing" width="205"/>](https://github.com/estods3/AMRadio)
 [<img src="https://camo.githubusercontent.com/228b13205764a96e707eca359e2bbcf6d30f91d01d457b0facd95521e1a55917/68747470733a2f2f6573746f6473332e6769746875622e696f2f6d6e6973745f616363656c657261746f722f6764735f72656e6465722e706e67" title="Neural Network Accelerator Integrated Circuit" alt="drawing" width="225"/>](https://github.com/estods3/mnist_accelerator/tree/main)
 
 ### Printed Circuit Boards
@@ -39,14 +39,18 @@ PCBs that I have designed.
 
 | Atmega Programmer | Quadcopter Flight Controller | Drinkbot Controller | Mixed Signal Board |
 |:----:|:----:|:----:|:----:|
-| [<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="350"/>](https://github.com/estods3/ATmega328pProgrammer) | [<img src="https://github.com/estods3/Drone/blob/main/HW/pcb/drone_controller_top.png" title="Quadcopter Flight Controller" alt="drawing" width="350"/>](https://github.com/estods3/Drone) | [<img src="https://raw.githubusercontent.com/estods3/Mule-Machine/main/HW/pcb/mulemachinePCB_withLEDs.png" title="Drinkbot Controller" alt="drawing" width="350"/>](https://github.com/estods3/Mule-Machine) | [<img src="https://raw.githubusercontent.com/estods3/estods3/refs/heads/master/Nemesis-MixSigPCB.png" title="Mixed Signal Demo Board" alt="drawing" width="250"/>]() |
+| [<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="350"/>](https://github.com/estods3/ATmega328pProgrammer) | [<img src="https://github.com/estods3/Drone/blob/main/HW/pcb/drone_controller_top.png" title="Quadcopter Flight Controller" alt="drawing" width="350"/>](https://github.com/estods3/Drone) | [<img src="https://raw.githubusercontent.com/estods3/Mule-Machine/main/HW/pcb/mulemachinePCB_withLEDs.png" title="Drinkbot Controller" alt="drawing" width="350"/>](https://github.com/estods3/Mule-Machine) | [<img src="https://github.com/estods3/estods3/blob/master/Other/Nemesis-MixSigPCB.png" title="Mixed Signal Demo Board" alt="drawing" width="250"/>]() |
 
 ### Circuit Simulations
 Click on a circuit below to view the live simulation! View all circuit simulations [here](https://github.com/estods3/estods3/blob/master/circuits.MD).
 
 | AM Modulator | Boost Buck Converter | H Bridge |
 |:----:|:----:|:----:|
-| [<img src="https://github.com/estods3/estods3/blob/master/circuit_AMMod.png" title="AM Modulator" alt="drawing" height="200" width="250"/>](https://everycircuit.com/circuit/5053803457675264) | [<img src="https://github.com/estods3/estods3/blob/master/circuit_boostbuck.png" title="Boost Buck Converter" alt="drawing" height="200" width="250"/>](https://everycircuit.com/circuit/6080140922322944) | [<img src="https://github.com/estods3/estods3/blob/master/circuit_AMMod.png" title="AM Modulator" alt="drawing" height="200" width="250"/>](https://everycircuit.com/circuit/5053803457675264) |
+| [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_AMMod.png" title="AM Modulator" alt="drawing" height="200" width="250"/>](https://everycircuit.com/circuit/5053803457675264) | [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_boostbuck.png" title="Boost Buck Converter" alt="drawing" height="200" width="250"/>](https://everycircuit.com/circuit/6080140922322944) | [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_AMMod.png" title="AM Modulator" alt="drawing" height="200" width="250"/>](https://everycircuit.com/circuit/5053803457675264) |
+
+### Woodworking
+
+[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/maplebistrotable_sketch" title="Live-Edge Table" alt="drawing" width="173"/>]()[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/maplebistrotable_build.jpg" title="Live-Edge Table" alt="drawing" width="200"/>]()
 <!-- &nbsp; is the space character -->
 
 <!--

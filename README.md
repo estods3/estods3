@@ -29,9 +29,9 @@ Here are some robot platforms I have built for experimenting with robotics algor
 ## Electronics, Machine Learning, and Other Projects
 Click on an image to (in most cases) view the Github Repo.
 <!-- Lines are 800 wide in homepage view -->
-[<img src="https://github.com/estods3/estods3/blob/master/pathplanning.gif" title="Path Planning Algorithm" alt="drawing" width="600"/>](https://github.com/estods3/PathPlanning-withGeneticAI)
-[<img src="https://raw.githubusercontent.com/estods3/Mule-Machine/main/HW/cad/MuleMachineCAD.png" title="Drinkbot" alt="drawing" width="350"/>](https://github.com/estods3/Mule-Machine)[<img src="https://github.com/estods3/estods3/blob/master/planetarygearset.gif" title="Planetary Gear Set" alt="video" width="157"/>](https://github.com/estods3)
-[<img src="sampling.gif" title="Frequency Simulator" alt="drawing" width="550"/>](https://github.com/estods3/Sampling-usingNyquistTheorem)[<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="AM Radio" alt="drawing" width="205"/>](https://github.com/estods3/AMRadio)
+[<img src="https://github.com/estods3/PathPlanning-withGeneticAI/blob/master/pics/pathplanning.gif" title="Path Planning Algorithm" alt="drawing" width="600"/>](https://github.com/estods3/PathPlanning-withGeneticAI)
+[<img src="https://raw.githubusercontent.com/estods3/Mule-Machine/main/HW/cad/MuleMachineCAD.png" title="Drinkbot" alt="drawing" width="350"/>](https://github.com/estods3/Mule-Machine)[<img src="https://github.com/estods3/estods3/blob/master/Other/planetarygearset.gif" title="Planetary Gear Set" alt="video" width="157"/>](https://github.com/estods3)
+[<img src="https://github.com/estods3/Sampling-usingNyquistTheorem/blob/master/screenshots/sampling.gif" title="Frequency Simulator" alt="drawing" width="550"/>](https://github.com/estods3/Sampling-usingNyquistTheorem)[<img src="https://github.com/estods3/AMRadio/blob/main/radioisometric.jpg" title="AM Radio" alt="drawing" width="205"/>](https://github.com/estods3/AMRadio)
 [<img src="https://camo.githubusercontent.com/228b13205764a96e707eca359e2bbcf6d30f91d01d457b0facd95521e1a55917/68747470733a2f2f6573746f6473332e6769746875622e696f2f6d6e6973745f616363656c657261746f722f6764735f72656e6465722e706e67" title="Neural Network Accelerator Integrated Circuit" alt="drawing" width="225"/>](https://github.com/estods3/mnist_accelerator/tree/main)
 
 ### Printed Circuit Boards
@@ -50,7 +50,7 @@ Click on a circuit below to view the live simulation! View all circuit simulatio
 
 ### Woodworking
 
-[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/maplebistrotable_sketch" title="Live-Edge Table" alt="drawing" width="173"/>]()[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/maplebistrotable_build.jpg" title="Live-Edge Table" alt="drawing" width="200"/>]()
+[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/maplebistrotable_sketchup.jpg" title="Live-Edge Table" alt="drawing" width="173"/>]()[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/maplebistrotable_build.jpg" title="Live-Edge Table" alt="drawing" width="200"/>]()
 <!-- &nbsp; is the space character -->
 
 <!--

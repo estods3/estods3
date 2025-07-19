@@ -2,7 +2,7 @@
 Robotics, Electronics, Machine Learning, Simulation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ROS, Python, Sketchup, EagleCAD/KiCad
 
 ## Published Work&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other Interests
-[Patent US11892308B2](https://patents.google.com/patent/US11892308B2), [SAE WCX 2019 Sys. Eng. of ADAS](https://www.sae.org/publications/technical-papers/content/2019-01-0876/), [MS Thesis](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu1555357244145006) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boxing, Golf, [Chess](https://lichess.org/@/estods), Woodworking
+[Patent US11892308B2](https://patents.google.com/patent/US11892308B2), [SAE WCX 2019 Sys. Eng. of ADAS](https://www.sae.org/publications/technical-papers/content/2019-01-0876/), [MS Thesis](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu1555357244145006) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boxing, Golf, [Chess](https://lichess.org/@/estods), Woodworking
 
 ## Robotics
 Here are some robot platforms I have built for experimenting with robotics algorithms and applications.
@@ -46,7 +46,8 @@ Click on a circuit below to view the live simulation! View all circuit simulatio
 
 ### Woodworking
 
-[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/maplebistrotable_sketchup.jpg" title="Live-Edge Table" alt="drawing" width="173"/>]()[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/maplebistrotable_build.jpg" title="Live-Edge Table" alt="drawing" width="200"/>]()
+[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/maplebistrotable_sketchup.jpg" title="Live-Edge Table" alt="drawing" width="173"/>]()[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/chessboard.jpg" title="Chessboard" alt="drawing" width="200"/>]()
+
 <!-- &nbsp; is the space character -->
 
 <!--

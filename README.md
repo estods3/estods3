@@ -45,7 +45,9 @@ Click on a circuit below to view the live simulation! View all circuit simulatio
 
 ### Woodworking
 
-[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/maplebistrotable_build.jpg" title="Live-Edge Table" alt="drawing" width="200"/>]()[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/chessboard.jpg" title="Chessboard" alt="drawing" width="200"/>]()
+| Chessboard | Live-Edge Table |
+|:----:|:----:|
+|[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/chessboard.jpg" title="Chessboard" alt="drawing" width="200"/>]()|[<img src="https://github.com/estods3/estods3/blob/master/Woodworking/maplebistrotable_build.jpg" title="Live-Edge Table" alt="drawing" width="200"/>]()|
 
 <!-- &nbsp; is the space character -->
 

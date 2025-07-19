@@ -2,7 +2,7 @@
 Robotics, Electronics, Machine Learning, Simulation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ROS, Python, Sketchup, EagleCAD/KiCad
 
 ## Published Work&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other Interests
-[Patent US11892308B2](https://patents.google.com/patent/US11892308B2), [SAE WCX 2019 Sys. Eng. of ADAS](https://www.sae.org/publications/technical-papers/content/2019-01-0876/), [MS Thesis](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu1555357244145006) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boxing, Golf, [Chess](https://lichess.org/@/estods), Woodworking
+[Patent US11892308B2](https://patents.google.com/patent/US11892308B2), [SAE WCX 2019 Sys. Eng. of ADAS](https://www.sae.org/publications/technical-papers/content/2019-01-0876/), [MS Thesis](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu1555357244145006) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boxing, Golf, [Chess](https://lichess.org/@/estods), Woodworking
 
 ## Robotics
 Here are some robot platforms I have built for experimenting with robotics algorithms and applications.
@@ -13,12 +13,12 @@ Here are some robot platforms I have built for experimenting with robotics algor
 | <img src="https://github.com/estods3/JetTank/blob/master/documentation/commandcenter.png" title="Robot Visualization" alt="drawing" width="300"/> | <img src="https://github.com/estods3/raspberrypi-LiteArmi2/blob/master/docs/rvizreplay.gif" title="3D Printed Robotic Arm" alt="video" width="275"/> | <img src="https://github.com/estods3/Drone/blob/main/Docs/drone_rviz.gif" title="Drone Visualization" alt="drawing" width="275"/> |
 | Mapping, Navigation |	Manipulation | Swarm, Surveillance, Delivery |
 | 3D Printed NVIDIA "JetBot" Chassis	with 2 Front Wheels (Independently Driven) and 1 Rear Omni-wheel | 3D Printed LiteArmi2, Geometry: 3R Serial Open-Chain with Rotating Base	| Carbon Fiber FPV Drone X-type propeller mount |
-| Custom PCB<br>H Bridge Motor Controller<br>DC Motors<br>Camera<br>IMU | Custom PCB<br>Raspberry Pi Hat<br>Servo Motors<br>Heartbeat LED | Custom Flight Controller PCB<br>IMU<br>ESCs<br>Brushless DC Motors<br>Heartbeat LED |
+| Custom PCB<br>H Bridge Motor Controller<br>DC Motors<br>Camera + IMU | Custom PCB<br>Raspberry Pi Hat<br>Servo Motors | Custom Flight Controller PCB<br>IMU<br>ESCs<br>Brushless DC Motors |
 | 5V Operating Voltage<br>USB Battery Pack | 5V Operating Voltage<br>DC Power Supply | 11.1V (3S) Operating Voltage<br>Lithium Ion Battery |
 | WiFi | Ethernet | WiFi |
 |	NVIDIA Jetson Developer Kit |	Raspberry Pi |	ESP32 |
-| ROS<br>Computer Vision<br> | ROS<br>Remote Control<br>Heartbeat<br>LED Signal | ROS<br>Web Server<br>Remote Control<br>Heartbeat LED |
-| Line Following Mode<br>Workspace Mode<br>Remote Control | Forward Kinematics<br>Trapezoid Control | Complementary IMU Filter<br>PID Controller |
+| ROS<br>Computer Vision<br>Remote Control  | ROS<br>Remote Control | ROS<br>Web Server<br>Remote Control |
+| Line Following Mode<br>Workspace Mode | Forward Kinematics<br>Trapezoid Control | Complementary IMU Filter<br>PID Controller |
 | [Github Repo](https://github.com/estods3/JetTank) | [Github Repo](https://github.com/estods3/raspberrypi-LiteArmi2) | [Github Repo](https://github.com/estods3/Drone) |
 | Upgrades:<br>Simulator: Flatlands Simulator or [Gazebo](https://github.com/dusty-nv/jetbot_ros/tree/master)<br>SLAM Algorithm | Upgrades:<br>End Effector Design | Upgrades:<br>Simulator-Gazebo |
 

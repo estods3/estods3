@@ -41,7 +41,7 @@ Click on a circuit below to view the live simulation! View all circuit simulatio
 
 | AM Modulator | Boost Buck Converter | H Bridge |
 |:----:|:----:|:----:|
-| [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_AMMod.png" title="AM Modulator" alt="drawing" height="200"/>](https://everycircuit.com/circuit/5053803457675264) | [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_boostbuck.png" title="Boost Buck Converter" alt="drawing" height="200"/>](https://everycircuit.com/circuit/6080140922322944) | [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_hbridge.png" title="AM Modulator" alt="drawing" height="200"/>](https://everycircuit.com/circuit/5193012309262336) |
+| [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_AMMod.png" title="AM Modulator" alt="drawing" height="200"/>](https://everycircuit.com/circuit/5053803457675264) | [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_boostbuck.png" title="Boost Buck Converter" alt="drawing" height="200"/>](https://everycircuit.com/circuit/6080140922322944) | [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_hbridge.png" title="H Bridge" alt="drawing" height="200"/>](https://everycircuit.com/circuit/5193012309262336) |
 
 ### Woodworking
 

@@ -37,11 +37,11 @@ PCBs that I have designed.
 | [<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="350"/>](https://github.com/estods3/ATmega328pProgrammer) | [<img src="https://github.com/estods3/Drone/blob/main/HW/pcb/drone_controller_top.png" title="Quadcopter Flight Controller" alt="drawing" width="350"/>](https://github.com/estods3/Drone) | [<img src="https://raw.githubusercontent.com/estods3/Mule-Machine/main/HW/pcb/mulemachinePCB_withLEDs.png" title="Drinkbot Controller" alt="drawing" width="350"/>](https://github.com/estods3/Mule-Machine) | [<img src="https://github.com/estods3/estods3/blob/master/Other/Nemesis-MixSigPCB.png" title="Mixed Signal Demo Board" alt="drawing" width="250"/>]() |
 
 ### Circuit Simulations
-Click on a circuit below to view the live simulation! View all circuit simulations [here](https://github.com/estods3/estods3/blob/master/circuits.MD).
+Click on a circuit below to view the live simulation! View all circuit simulations [here](https://github.com/estods3/estods3/blob/master/Circuits.MD).
 
 | AM Modulator | Boost Buck Converter | H Bridge |
 |:----:|:----:|:----:|
-| [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_AMMod.png" title="AM Modulator" alt="drawing" height="200"/>](https://everycircuit.com/circuit/5053803457675264) | [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_boostbuck.png" title="Boost Buck Converter" alt="drawing" height="200"/>](https://everycircuit.com/circuit/6080140922322944) | [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_AMMod.png" title="AM Modulator" alt="drawing" height="200"/>](https://everycircuit.com/circuit/5053803457675264) |
+| [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_AMMod.png" title="AM Modulator" alt="drawing" height="200"/>](https://everycircuit.com/circuit/5053803457675264) | [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_boostbuck.png" title="Boost Buck Converter" alt="drawing" height="200"/>](https://everycircuit.com/circuit/6080140922322944) | [<img src="https://github.com/estods3/estods3/blob/master/Circuit%20Simulations/circuit_hbridge.png" title="AM Modulator" alt="drawing" height="200"/>](https://everycircuit.com/circuit/5193012309262336) |
 
 ### Woodworking
 
